@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Planetary Psychology"
+message: "If you use this framework or repository, please cite it."
+type: software
+authors:
+  - family-names: "Sypen"
+    given-names: "Kara"
+year: 2026
+license: Apache-2.0
