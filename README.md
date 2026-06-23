@@ -26,3 +26,4 @@ How do biological, elemental, environmental, social, planetary, and temporal sys
 The code in this repository is open-source under Apache-2.0.
 
 The written theory, framework language, diagrams, and Planetary Psychology™ name remain attributed to Kara Sypen unless otherwise stated.
+# planetary-psychology
