@@ -1,9 +1,17 @@
 # Contributing
 
-Contributions are welcome for research, code, literature review, datasets, statistical critique, diagrams, and study design.
+Contributions are welcome.
 
-By contributing, you agree that your contribution may be included in this public repository under the applicable repository licenses.
+Accepted contribution types:
+- Research questions
+- Literature review
+- Code
+- Data analysis
+- Study design
+- Statistical critique
+- Diagrams
+- Documentation
 
-You also acknowledge that Planetary Psychology™ as a named framework and original theory was originated by Kara Sypen.
+By contributing, you acknowledge that Planetary Psychology™ as a named framework was originated by Kara Sypen.
 
-Please contribute through pull requests with clear notes explaining what you changed and why.
+Please use pull requests and clearly explain your changes.

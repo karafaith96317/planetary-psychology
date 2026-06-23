@@ -1,14 +1,13 @@
 # Planetary Psychology™
 
-**Planetary Psychology™** is an interdisciplinary research framework developed by **Kara Sypen** for studying the relationship between human psychology, collective behavior, environmental systems, elemental composition, planetary cycles, and cosmological context.
+**Planetary Psychology™** is an interdisciplinary research framework originated by **Kara Sypen**.
 
-This repository is intended as an open public research space for collaborative exploration, data analysis, hypothesis testing, literature review, and prototype development.
+It studies the relationship between human psychology, collective behavior, environmental systems, elemental composition, planetary cycles, atmospheric conditions, and cosmological context.
 
 ## Founder / Originator
 
-Planetary Psychology™ was originated and formulated by **Kara Sypen**.
-
-© 2026 Kara Sypen. All rights reserved for original written framework materials.
+**Kara Sypen**  
+© 2026 Kara Sypen. All rights reserved for original theory, framework language, diagrams, and written materials.
 
 ## Central Research Question
 
@@ -16,14 +15,16 @@ How do biological, elemental, environmental, social, planetary, and temporal sys
 
 ## Research Tracks
 
-1. AQI + Mood Correlation
-2. Elemental Psychology
+1. Elemental Psychology
+2. AQI + Mood Correlation
 3. Antipodal Atmospheric Study
 4. Planetary Cycle Analysis
 
+## Collaboration
+
+This repository is public for interdisciplinary research collaboration, critique, data modeling, and study design.
+
 ## IP Notice
 
-The code in this repository is open-source under Apache-2.0.
-
-The written theory, framework language, diagrams, and Planetary Psychology™ name remain attributed to Kara Sypen unless otherwise stated.
-# planetary-psychology
+Code may be open-source under the repository license.  
+The name **Planetary Psychology™**, original theory, written framework, diagrams, and conceptual structure remain attributed to **Kara Sypen**.

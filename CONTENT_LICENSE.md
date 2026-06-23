@@ -1,11 +1,7 @@
 # Content License
 
-Written theory materials, diagrams, definitions, framework language, and documentation in this repository are licensed under:
+Original written theory materials, definitions, diagrams, and framework language are © 2026 Kara Sypen.
 
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Non-commercial sharing and citation are permitted with attribution.
 
-You may share and adapt the material for non-commercial purposes with attribution to Kara Sypen.
-
-Commercial use requires written permission from Kara Sypen.
-
-© 2026 Kara Sypen. All rights reserved for original Planetary Psychology™ framework materials.
+Commercial use, certification use, course branding, derivative commercial frameworks, or use of the Planetary Psychology™ name requires written permission from Kara Sypen.

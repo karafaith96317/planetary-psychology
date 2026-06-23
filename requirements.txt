@@ -1,0 +1,14 @@
+# Core Data Handling
+pandas
+requests
+
+# Cosmological / Ephemeris Data
+skyfield
+ephem
+
+# Statistical Correlation & Machine Learning
+scipy
+scikit-learn
+
+# Visualization
+plotly

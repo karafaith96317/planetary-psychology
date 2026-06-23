@@ -1,10 +1,10 @@
 # Code of Conduct
 
-This project welcomes respectful interdisciplinary research.
+This project welcomes serious interdisciplinary research.
 
 Contributors should:
-- Be constructive.
-- Distinguish evidence from speculation.
-- Cite sources where possible.
-- Avoid harassment, exploitation, or personal attacks.
-- Respect Kara Sypen's authorship and IP notices.
+- Be respectful.
+- Cite sources.
+- Separate evidence from speculation.
+- Avoid personal attacks.
+- Respect authorship and IP notices.
