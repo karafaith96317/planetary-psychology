@@ -2,29 +2,44 @@
 
 **Planetary Psychology™** is an interdisciplinary research framework originated by **Kara Sypen**.
 
-It studies the relationship between human psychology, collective behavior, environmental systems, elemental composition, planetary cycles, atmospheric conditions, and cosmological context.
+It studies testable relationships among human psychology, collective behavior, environmental systems, atmospheric conditions, planetary context, and time. It also documents authored hypotheses while keeping them separate from established findings.
 
 ## Founder / Originator
 
 **Kara Sypen**  
-© 2026 Kara Sypen. All rights reserved for original theory, framework language, diagrams, and written materials.
+© 2026 Kara Sypen.
 
-## Central Research Question
+## Central research question
 
-How do biological, elemental, environmental, social, planetary, and temporal systems interact with human psychological states and collective behavior?
+How do biological, environmental, social, planetary, and temporal systems interact with psychological states and collective behavior—and which proposed relationships survive empirical testing?
 
-## Research Tracks
+## Research tracks
 
 1. Elemental Psychology
-2. AQI + Mood Correlation
-3. Antipodal Atmospheric Study
-4. Planetary Cycle Analysis
+2. AQI and mood correlation
+3. Antipodal atmospheric study
+4. Planetary-cycle analysis
+
+## Evidence labels
+
+Material should be identified as one of:
+
+- established scientific background
+- direct observation or dataset
+- statistical result
+- hypothesis
+- authored conceptual model
+- symbolic interpretation
+- unresolved question
+
+Correlation is not treated as causation, and symbolic interpretation is not presented as a physical measurement.
 
 ## Collaboration
 
-This repository is public for interdisciplinary research collaboration, critique, data modeling, and study design.
+This repository is public for interdisciplinary critique, research design, transparent modeling, and reproducible analysis. Health or human-participant studies require appropriate consent, privacy safeguards, and ethics review.
 
-## IP Notice
+## License and IP
 
-Code may be open-source under the repository license.  
-The name **Planetary Psychology™**, original theory, written framework, diagrams, and conceptual structure remain attributed to **Kara Sypen**.
+Software code expressly identified as code may be used under the repository license. The license does not grant rights to the **Planetary Psychology™** name or branding. Original non-code theory language, diagrams, unpublished methods, research taxonomy, and conceptual structure remain subject to [IP-NOTICE.md](IP-NOTICE.md).
+
+See [SECURITY.md](SECURITY.md) for private vulnerability reporting.
