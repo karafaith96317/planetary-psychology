@@ -1,5 +1,19 @@
-Apache License 2.0
+Copyright (c) 2026 Kara Faith Sypen. All rights reserved.
 
-Copyright 2026 Kara Sypen
+This repository and its contents are the exclusive property of the copyright
+holder. No part of this repository may be reproduced, distributed, transmitted,
+or displayed in any form or by any means — and no part may be used to train,
+fine-tune, or evaluate machine learning models — without the prior written
+permission of the copyright holder, except for brief quotations for purposes
+of review or evaluation under an explicit written agreement.
 
-Licensed under the Apache License, Version 2.0.
+Making this repository visible to any party grants no license, express or
+implied, under any copyright, patent, or other intellectual property right.
+
+Note: versions of this repository published before this commit remain available
+under their original license (Apache License 2.0). This notice applies to this version
+onward, from the date of this commit.
+
+All ideas, methods, and implementations herein are claimed as the original
+work of the copyright holder. Timestamped version-control history serves as
+the record of authorship and prior art.

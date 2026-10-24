@@ -24,7 +24,9 @@ How do biological, elemental, environmental, social, planetary, and temporal sys
 
 This repository is public for interdisciplinary research collaboration, critique, data modeling, and study design.
 
-## IP Notice
+## License / IP Notice
 
-Code may be open-source under the repository license.  
+Copyright (c) 2026 Kara Faith Sypen. All rights reserved. See [LICENSE](LICENSE).
+Code and contents are proprietary; visibility grants no license to copy, distribute, or use for ML training.
 The name **Planetary Psychology™**, original theory, written framework, diagrams, and conceptual structure remain attributed to **Kara Sypen**.
+See also [TRADEMARK_NOTICE.md](TRADEMARK_NOTICE.md) and [CONTENT_LICENSE.md](CONTENT_LICENSE.md).
